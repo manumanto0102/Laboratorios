@@ -1,0 +1,49 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETFramework,Version=v8.0": {},
+    ".NETFramework,Version=v8.0/win7-x86": {}
+  },
+  "libraries": {},
+  "projectFileDependencyGroups": {
+    ".NETFramework,Version=v8.0": []
+  },
+  "packageFolders": {
+    "C:\\Users\\manum\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "C:\\Users\\manum\\Desktop\\L5- Manuel Arita-1142824\\L5.csproj",
+      "projectName": "L5",
+      "projectPath": "C:\\Users\\manum\\Desktop\\L5- Manuel Arita-1142824\\L5.csproj",
+      "packagesPath": "C:\\Users\\manum\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\manum\\Desktop\\L5- Manuel Arita-1142824\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\manum\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+      ],
+      "originalTargetFrameworks": [
+        "net80"
+      ],
+      "sources": {
+        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net80": {
+          "projectReferences": {}
+        }
+      }
+    },
+    "frameworks": {
+      "net80": {}
+    },
+    "runtimes": {
+      "win7-x86": {
+        "#import": []
+      }
+    }
+  }
+}

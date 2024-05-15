@@ -1,0 +1,14 @@
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\bin\Debug\net8.0\L5.exe
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\bin\Debug\net8.0\L5.deps.json
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\bin\Debug\net8.0\L5.runtimeconfig.json
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\bin\Debug\net8.0\L5.dll
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\bin\Debug\net8.0\L5.pdb
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\obj\Debug\net8.0\L5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\obj\Debug\net8.0\L5.AssemblyInfoInputs.cache
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\obj\Debug\net8.0\L5.AssemblyInfo.cs
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\obj\Debug\net8.0\L5.csproj.CoreCompileInputs.cache
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\obj\Debug\net8.0\L5.dll
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\obj\Debug\net8.0\refint\L5.dll
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\obj\Debug\net8.0\L5.pdb
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\obj\Debug\net8.0\L5.genruntimeconfig.cache
+C:\Users\manum\Desktop\L5- Manuel Arita-1142824\obj\Debug\net8.0\ref\L5.dll
