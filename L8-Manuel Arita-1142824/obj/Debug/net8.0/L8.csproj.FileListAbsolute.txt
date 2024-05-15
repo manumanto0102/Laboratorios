@@ -1,0 +1,14 @@
+C:\Users\manum\Desktop\L8\obj\Debug\net8.0\L8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manum\Desktop\L8\obj\Debug\net8.0\L8.AssemblyInfoInputs.cache
+C:\Users\manum\Desktop\L8\obj\Debug\net8.0\L8.AssemblyInfo.cs
+C:\Users\manum\Desktop\L8\obj\Debug\net8.0\L8.csproj.CoreCompileInputs.cache
+C:\Users\manum\Desktop\L8\bin\Debug\net8.0\L8.exe
+C:\Users\manum\Desktop\L8\bin\Debug\net8.0\L8.deps.json
+C:\Users\manum\Desktop\L8\bin\Debug\net8.0\L8.runtimeconfig.json
+C:\Users\manum\Desktop\L8\bin\Debug\net8.0\L8.dll
+C:\Users\manum\Desktop\L8\bin\Debug\net8.0\L8.pdb
+C:\Users\manum\Desktop\L8\obj\Debug\net8.0\L8.dll
+C:\Users\manum\Desktop\L8\obj\Debug\net8.0\refint\L8.dll
+C:\Users\manum\Desktop\L8\obj\Debug\net8.0\L8.pdb
+C:\Users\manum\Desktop\L8\obj\Debug\net8.0\L8.genruntimeconfig.cache
+C:\Users\manum\Desktop\L8\obj\Debug\net8.0\ref\L8.dll
