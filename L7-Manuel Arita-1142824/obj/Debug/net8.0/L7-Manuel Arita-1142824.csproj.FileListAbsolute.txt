@@ -1,0 +1,14 @@
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\bin\Debug\net8.0\L7-Manuel Arita-1142824.exe
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\bin\Debug\net8.0\L7-Manuel Arita-1142824.deps.json
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\bin\Debug\net8.0\L7-Manuel Arita-1142824.runtimeconfig.json
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\bin\Debug\net8.0\L7-Manuel Arita-1142824.dll
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\bin\Debug\net8.0\L7-Manuel Arita-1142824.pdb
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\obj\Debug\net8.0\L7-Manuel Arita-1142824.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\obj\Debug\net8.0\L7-Manuel Arita-1142824.AssemblyInfoInputs.cache
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\obj\Debug\net8.0\L7-Manuel Arita-1142824.AssemblyInfo.cs
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\obj\Debug\net8.0\L7-Manuel Arita-1142824.csproj.CoreCompileInputs.cache
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\obj\Debug\net8.0\L7-Manuel Arita-1142824.dll
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\obj\Debug\net8.0\refint\L7-Manuel Arita-1142824.dll
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\obj\Debug\net8.0\L7-Manuel Arita-1142824.pdb
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\obj\Debug\net8.0\L7-Manuel Arita-1142824.genruntimeconfig.cache
+C:\Users\manum\Desktop\L7-Manuel Arita-1142824\obj\Debug\net8.0\ref\L7-Manuel Arita-1142824.dll
