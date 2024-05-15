@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v8.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v8.0": {
+      "L9-Manuel Arita-1142824/1.0.0": {
+        "runtime": {
+          "L9-Manuel Arita-1142824.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "L9-Manuel Arita-1142824/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
